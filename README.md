@@ -41,6 +41,16 @@ https://tr3nds.de/de/cat156/lifestyle.html
 https://tr3nds.de/de/m1/blog.html
 
 
-Andere projekte:
+Tr3nds.de bei Facbook:
+
+https://facebook.com/tr3nds.de
+
+Tr3nds.de bei Youtube:
+
+https://www.youtube.com/channel/UCl0ElsID4ctjkAxBbSVsk7A/about
+
+
+
+Andere Projekte:
 
 https://github.com/creativesoundorg/storebag
