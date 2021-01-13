@@ -32,10 +32,6 @@ https://tr3nds.de/de/cat172/arbeit.html
 
 https://tr3nds.de/de/cat124/sport.html
 
-Andere projekte:
-
-https://github.com/creativesoundorg/storebag
-
 https://tr3nds.de/de/cat137/haustiere.html
 
 https://tr3nds.de/de/cat150/technik.html
@@ -43,3 +39,8 @@ https://tr3nds.de/de/cat150/technik.html
 https://tr3nds.de/de/cat156/lifestyle.html
 
 https://tr3nds.de/de/m1/blog.html
+
+
+Andere projekte:
+
+https://github.com/creativesoundorg/storebag
